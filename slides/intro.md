@@ -1,4 +1,4 @@
-# Cours cloud ECE
+# Cours cloud
 #### By
 ##### Laurent Grangeau & Arthur Mauvezin
 
